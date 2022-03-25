@@ -1,1 +1,1 @@
-Welcome to the new world, <b>MFGhost</>
+Welcome to the new world, <b>MFGhost</b>
